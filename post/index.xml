@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Terminal</title>
-    <link>http://qiyeboy.github.io/post/</link>
+    <link>https://qiyeboy.github.io/post/</link>
     <description>Recent content in Posts on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 20 Jan 2020 15:34:26 +0800</lastBuildDate>
     
-	<atom:link href="http://qiyeboy.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://qiyeboy.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Test</title>
-      <link>http://qiyeboy.github.io/post/test/</link>
+      <link>https://qiyeboy.github.io/post/test/</link>
       <pubDate>Mon, 20 Jan 2020 15:34:26 +0800</pubDate>
       
-      <guid>http://qiyeboy.github.io/post/test/</guid>
+      <guid>https://qiyeboy.github.io/post/test/</guid>
       <description>jintian </description>
     </item>
     
